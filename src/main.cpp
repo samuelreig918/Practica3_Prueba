@@ -23,7 +23,8 @@ void loop()
   ledcWrite(0, 8);
   Serial.printf("Numerico: %d | Voltaje: %d\n", valor_pot, volt_pot);
   delay(400);
-  Serial.print("branch");
-  se puede?
+  lodwwwwwwwwwwwwwwwwwwww
+  popo
+  fjijiiji
 }
 
