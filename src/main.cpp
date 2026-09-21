@@ -10,7 +10,7 @@ void setup()
 {
   pinMode(LED, OUTPUT);
   pinMode(Button, INPUT_PULLUP);
-  Serial.begin(9600);
+  Serial.begin(115200);
   analogReadResolution(res);
   ledcSetup(PWM, 300, res);
   ledcAttachPin(LED, PWM);
