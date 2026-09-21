@@ -24,5 +24,6 @@ void loop()
   Serial.printf("Numerico: %d | Voltaje: %d\n", valor_pot, volt_pot);
   delay(400);
   lodwwwwwwwwwwwwwwwwwwww
+  popo
 }
 
