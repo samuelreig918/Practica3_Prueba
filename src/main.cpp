@@ -25,5 +25,6 @@ void loop()
   delay(400);
   lodwwwwwwwwwwwwwwwwwwww
   popo
+  fjijiiji
 }
 
